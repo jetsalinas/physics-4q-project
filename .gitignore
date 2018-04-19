@@ -102,5 +102,6 @@ ENV/
 
 /html
 /papers
+/plots
 
 plot.png
